@@ -1,0 +1,13 @@
+We would be working as a Team.
+Team member names: David Selvaraj, Rohan Valder, Arindam Samanta
+
+Determine your method of communication as a team (Slack, Teams, Discord, Skype, etc.): Teams
+
+Provide high level plan for tackling the project as a team: Divide among us and assume Roles
+1) Subject Matter Experts
+     Responsibilities: source data gathering, interpretation and defining the business problem.
+2) Coding and design
+     Responsibilities as Data Engineer is to design the data ingestion and perform EDA and prepare the data for the model.
+3) Data Modeling and prediction. 
+     Responsibility: Plan the data model and identify the model and measure accuracy of the model
+                     Make prediction
